@@ -9,3 +9,5 @@ document.getElementsByName('name')[0].placeholder='Digite seu primeiro nome'
 let color = document.querySelector('body');
 color.style.backgroundColor = '#fafafa';
 
+// Modificando o texto da tag photos
+document.querySelector('.photos').innerText = 'Cadastre-se para ver photos dos seus amigos'
