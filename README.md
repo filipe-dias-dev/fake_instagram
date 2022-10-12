@@ -13,7 +13,7 @@ Neste projeto tem como foco manipular os elementos com JavaScript "DOM"
 - Alterando DOM;
 - querySlector() buscando o primeiro elemento que inserimos entre parentes;
 - getElementsByName() retorna também os elementos com o atributo fornecido;
-- innerText para modificar o texto da HTML;
+- innerText para modificar o texto de uma tag HTML;
 
 ## Tecnologias utilizadas:
 
